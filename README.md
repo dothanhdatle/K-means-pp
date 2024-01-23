@@ -1,2 +1,2 @@
 # K-means-pp
-K-means++ algorithm
+K-means++ algorithm implementation in R.
